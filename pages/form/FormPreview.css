@@ -1,0 +1,23 @@
+/* Apply CSS styles to the FormPreview component */
+
+.form-preview {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-top: 20px;
+}
+
+.form-preview h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.form-preview pre {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  white-space: pre-wrap;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
